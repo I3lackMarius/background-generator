@@ -4,3 +4,4 @@ const flattened = [[0,1], [2,3], [4,5]].reduce(
 	console.log('accumulator', accumulator);
 	return accumulator.concat(array);
 	}, []); 
+//change made new
